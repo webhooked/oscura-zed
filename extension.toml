@@ -1,0 +1,7 @@
+id = "oscura"
+name = "Oscura Theme"
+schema_version = 1
+version = "0.1.0"
+authors = ["Webhooked <hello@webhooked.dev>"]
+description = "An unapologetically dark and minimal colorscheme for Zed. Inspired by the Oscura Theme by Fey."
+repository = "https://github.com/webhooked/oscura-zed"
